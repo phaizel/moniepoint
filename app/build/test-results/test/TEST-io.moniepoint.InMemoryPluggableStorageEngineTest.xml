@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.moniepoint.InMemoryPluggableStorageEngineTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-07T11:17:25" hostname="muteswa-ThinkPad-T480s" time="0.027">
+  <properties/>
+  <testcase name="aStoredRecordIsNotOverwritten()" classname="io.moniepoint.InMemoryPluggableStorageEngineTest" time="0.003"/>
+  <testcase name="aSimpleRecordIsStoredAndFound()" classname="io.moniepoint.InMemoryPluggableStorageEngineTest" time="0.002"/>
+  <testcase name="aComplexRecordIsStoredAndFound()" classname="io.moniepoint.InMemoryPluggableStorageEngineTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
